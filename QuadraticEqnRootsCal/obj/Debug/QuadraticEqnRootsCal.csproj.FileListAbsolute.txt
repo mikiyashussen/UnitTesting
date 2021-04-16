@@ -1,0 +1,7 @@
+C:\Users\mikiy\Desktop\Mike moh\QuadraticEqnRootsCal\bin\Debug\QuadraticEqnRootsCal.exe.config
+C:\Users\mikiy\Desktop\Mike moh\QuadraticEqnRootsCal\bin\Debug\QuadraticEqnRootsCal.exe
+C:\Users\mikiy\Desktop\Mike moh\QuadraticEqnRootsCal\bin\Debug\QuadraticEqnRootsCal.pdb
+C:\Users\mikiy\Desktop\Mike moh\QuadraticEqnRootsCal\obj\Debug\QuadraticEqnRootsCal.csprojAssemblyReference.cache
+C:\Users\mikiy\Desktop\Mike moh\QuadraticEqnRootsCal\obj\Debug\QuadraticEqnRootsCal.csproj.CoreCompileInputs.cache
+C:\Users\mikiy\Desktop\Mike moh\QuadraticEqnRootsCal\obj\Debug\QuadraticEqnRootsCal.exe
+C:\Users\mikiy\Desktop\Mike moh\QuadraticEqnRootsCal\obj\Debug\QuadraticEqnRootsCal.pdb
